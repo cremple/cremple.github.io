@@ -1,15 +1,25 @@
 ---
 layout: page
-title: About
+navigation_title: About
+title: About Evento
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+[Evento](https://github.com/boyney123/evento) a free to use open source Jekyll project I started that allows people to create internal/external events, showing times and information for anybody that wants to attend.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+# The Problem I was trying to solve
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+
+At my current place of work we run internal speaker events called Brownbags.
+ 
+Brownbags are a great platform and environment for professionals to speak about anything that interests them. 
+
+The main problem I found was that there was no **easy to use** platform to see what Brownbags, Internal Training or other events are coming up or have already gone, so I created [Evento](https://github.com/boyney123/evento)
+
+This free and opensource platform should allow any organisation or group to collect and share their events in one place.
+
+If you would like to contribute to the project or folk it for your own organisation or group feel free. 
+
+<a href="https://github.com/boyney123/evento"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.username }}</span> Evento</a>
+
+
